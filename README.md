@@ -1,14 +1,20 @@
 # Houston Jobs
 
-Open roles in Houston: 19 roles at 13 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=houston).** Last updated 2026-11-08.
+Open roles in Houston: 20 roles at 13 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=houston).** Last updated 2026-11-09.
 
-All 19 are listed below. Browse the newest on [warmada.com/jobs/houston](https://warmada.com/jobs/houston?utm_source=github&utm_medium=list&utm_campaign=houston).
+All 20 are listed below. Browse the newest on [warmada.com/jobs/houston](https://warmada.com/jobs/houston?utm_source=github&utm_medium=list&utm_campaign=houston).
 
-**By role:** Sales (5) · Operations (1) · Finance (1) · HR & Recruiting (1) · Other (11)
+**By role:** Software Engineering (1) · Sales (5) · Operations (1) · Finance (1) · HR & Recruiting (1) · Other (11)
 
 **How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. A role is on this list when its posting names Houston. The section comes from keywords in the title, so a role can land in the wrong one. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
 A bad listing? Email hello@warmada.com with the link.
+
+## Software Engineering (1)
+
+| Company | Role | Location | Posted | Links |
+| --- | --- | --- | --- | --- |
+| [marianaminerals.com](https://warmada.com/companies/marianaminerals-com?utm_source=github&utm_medium=list&utm_campaign=houston) | Commissioning Engineer | Houston, TX | Nov 8 | [Apply](https://jobs.ashbyhq.com/marianaminerals/5d7ea495-053d-44d6-a221-95a2c84f5c09) · [Find the hiring manager](https://warmada.com/job/marianaminerals-com-commissioning-engineer-32b6511a-b8d2-4c86-97cd-05d4727cd203?utm_source=github&utm_medium=list&utm_campaign=houston) |
 
 ## Sales (5)
 
