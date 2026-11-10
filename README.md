@@ -1,10 +1,10 @@
 # Houston Jobs
 
-Open roles in Houston: 20 roles at 13 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=houston).** Last updated 2026-11-09.
+Open roles in Houston: 21 roles at 14 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=houston).** Last updated 2026-11-10.
 
-All 20 are listed below. Browse the newest on [warmada.com/jobs/houston](https://warmada.com/jobs/houston?utm_source=github&utm_medium=list&utm_campaign=houston).
+All 21 are listed below. Browse the newest on [warmada.com/jobs/houston](https://warmada.com/jobs/houston?utm_source=github&utm_medium=list&utm_campaign=houston).
 
-**By role:** Software Engineering (1) · Sales (5) · Operations (1) · Finance (1) · HR & Recruiting (1) · Other (11)
+**By role:** Software Engineering (1) · Sales (7) · Operations (1) · Finance (1) · HR & Recruiting (1) · Other (10)
 
 **How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. A role is on this list when its posting names Houston. The section comes from keywords in the title, so a role can land in the wrong one. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
@@ -16,10 +16,12 @@ A bad listing? Email hello@warmada.com with the link.
 | --- | --- | --- | --- | --- |
 | [marianaminerals.com](https://warmada.com/companies/marianaminerals-com?utm_source=github&utm_medium=list&utm_campaign=houston) | Commissioning Engineer | Houston, TX | Nov 8 | [Apply](https://jobs.ashbyhq.com/marianaminerals/5d7ea495-053d-44d6-a221-95a2c84f5c09) · [Find the hiring manager](https://warmada.com/job/marianaminerals-com-commissioning-engineer-32b6511a-b8d2-4c86-97cd-05d4727cd203?utm_source=github&utm_medium=list&utm_campaign=houston) |
 
-## Sales (5)
+## Sales (7)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
+| [2020 Companies, Inc.](https://warmada.com/companies/2020-companies-inc?utm_source=github&utm_medium=list&utm_campaign=houston) | HP Retail Sales Specialist | Houston, TX | Nov 10 | [Apply](https://2020companies.wd1.myworkdayjobs.com/External_Careers/job/Houston-TX/HP-Retail-Sales-Representative_REQ_115290) · [Find the hiring manager](https://warmada.com/job/2020-companies-inc-hp-retail-sales-specialist-589f4e38-771e-4577-a5ce-cf64e52106ed?utm_source=github&utm_medium=list&utm_campaign=houston) |
+| [Databricks](https://warmada.com/companies/databricks?utm_source=github&utm_medium=list&utm_campaign=houston) | Named Core Account Executive-Manufacturing | Houston, Texas; Oklahoma | Nov 9 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8925470002) · [Find the hiring manager](https://warmada.com/job/databricks-named-core-account-executive-manufacturing-8ff8bb03-5895-4aa9-b878-159aed3cc5f9?utm_source=github&utm_medium=list&utm_campaign=houston) |
 | [Verkada](https://warmada.com/companies/verkada?utm_source=github&utm_medium=list&utm_campaign=houston) | Enterprise Account Executive (Houston - Local Government) | Houston, TX United States | Nov 4 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5283736007) · [Find the hiring manager](https://warmada.com/job/verkada-enterprise-account-executive-houston-local-government-f7833843-e555-4639-b365-f7497ad16e0e?utm_source=github&utm_medium=list&utm_campaign=houston) |
 | [2020 Companies, Inc.](https://warmada.com/companies/2020-companies-inc?utm_source=github&utm_medium=list&utm_campaign=houston) | Samsung Field Sales Manager | Houston, TX | Nov 4 | [Apply](https://2020companies.wd1.myworkdayjobs.com/External_Careers/job/Houston-TX/Samsung-Field-Sales-Manager--Non-Exempt_REQ_115708) · [Find the hiring manager](https://warmada.com/job/2020-companies-inc-samsung-field-sales-manager-6df34ab6-4ec7-40a1-997a-2fdf7c4af1f5?utm_source=github&utm_medium=list&utm_campaign=houston) |
 | [mylocalinfusion.com](https://warmada.com/companies/mylocalinfusion-com?utm_source=github&utm_medium=list&utm_campaign=houston) | Business Development Executive - Greater Houston, TX | Houston | Nov 3 | [Apply](https://jobs.ashbyhq.com/Local%20Infusion/c81e6967-c72c-463f-9c4a-7ddb47a77c79) · [Find the hiring manager](https://warmada.com/job/mylocalinfusion-com-business-development-executive-greater-houston-tx-383329a1-0b93-46d0-9d84-74fe334b2a73?utm_source=github&utm_medium=list&utm_campaign=houston) |
@@ -44,7 +46,7 @@ A bad listing? Email hello@warmada.com with the link.
 | --- | --- | --- | --- | --- |
 | [marianaminerals.com](https://warmada.com/companies/marianaminerals-com?utm_source=github&utm_medium=list&utm_campaign=houston) | Recruiting Coordinator | Houston, TX | Nov 6 | [Apply](https://jobs.ashbyhq.com/marianaminerals/a391e5be-92f7-43cd-86bb-ebbf9a05de98) · [Find the hiring manager](https://warmada.com/job/marianaminerals-com-recruiting-coordinator-345f072c-49d3-4d2a-a800-d94250491b95?utm_source=github&utm_medium=list&utm_campaign=houston) |
 
-## Other (11)
+## Other (10)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -58,4 +60,3 @@ A bad listing? Email hello@warmada.com with the link.
 | [Lucid Motors](https://warmada.com/companies/lucid-motors?utm_source=github&utm_medium=list&utm_campaign=houston) | Associate Service Technician, Houston | Houston, TX | Oct 29 | [Apply](https://lucidmotors.com/careers/search/5277562007?gh_jid=5277562007) · [Find the hiring manager](https://warmada.com/job/lucid-motors-associate-service-technician-houston-5600b29f-78e3-46cd-bbe6-e60bd78fcecf?utm_source=github&utm_medium=list&utm_campaign=houston) |
 | [Mercer Advisors](https://warmada.com/companies/mercer-advisors?utm_source=github&utm_medium=list&utm_campaign=houston) | Investment Strategist - Hybrid (Pacific, Mountain, or Central Time Zones) | California; Dallas - Park Cities; Denver (HQ); Houston | Oct 28 | [Apply](https://job-boards.greenhouse.io/merceradvisors/jobs/5463816008) · [Find the hiring manager](https://warmada.com/job/mercer-advisors-investment-strategist-hybrid-pacific-mountain-or-central-time-zo-ffe92778-4dba-4696-b570-fa896dbed6eb?utm_source=github&utm_medium=list&utm_campaign=houston) |
 | [New Relic](https://warmada.com/companies/new-relic?utm_source=github&utm_medium=list&utm_campaign=houston) | Technical Success Manager | Atlanta, Georgia, USA; Charlotte, North Carolina, USA; Chicago, Illinois, USA; Dallas, Texas, USA; Houston, Texas, USA | Oct 28 | [Apply](https://job-boards.greenhouse.io/newrelic/jobs/5462648008) · [Find the hiring manager](https://warmada.com/job/new-relic-technical-success-manager-50aff828-7730-471c-b0b5-82f49908810c?utm_source=github&utm_medium=list&utm_campaign=houston) |
-| [marianaminerals.com](https://warmada.com/companies/marianaminerals-com?utm_source=github&utm_medium=list&utm_campaign=houston) | Administrative Assistant | Houston, TX | Oct 27 | [Apply](https://jobs.ashbyhq.com/marianaminerals/42d74030-792c-44d6-9d93-6c0623d19cf7) · [Find the hiring manager](https://warmada.com/job/marianaminerals-com-administrative-assistant-09bb48b7-c491-4ac7-9fde-a6a8ad36dfac?utm_source=github&utm_medium=list&utm_campaign=houston) |
