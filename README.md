@@ -1,21 +1,20 @@
 # Houston Jobs
 
-Open roles in Houston: 19 roles at 14 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=houston).** Last updated 2026-11-12.
+Open roles in Houston: 19 roles at 14 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=houston).** Last updated 2026-11-13.
 
 All 19 are listed below. Browse the newest on [warmada.com/jobs/houston](https://warmada.com/jobs/houston?utm_source=github&utm_medium=list&utm_campaign=houston).
 
-**By role:** Software Engineering (2) · Sales (8) · Finance (1) · HR & Recruiting (1) · Other (7)
+**By role:** Software Engineering (1) · Sales (8) · Finance (1) · HR & Recruiting (1) · Other (8)
 
 **How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. A role is on this list when its posting names Houston. The section comes from keywords in the title, so a role can land in the wrong one. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
 A bad listing? Email hello@warmada.com with the link.
 
-## Software Engineering (2)
+## Software Engineering (1)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
-| [New Relic](https://warmada.com/companies/new-relic?utm_source=github&utm_medium=list&utm_campaign=houston) | Software Engineer-Infrastructure | Austin, Texas, USA; Chicago, Illinois, USA; Columbus, Ohio, USA; Dallas, Texas, USA; Detroit, Michigan, USA; Houston, Texas, USA; Las Vegas, Nevada, USA; Miami, Florida, USA; Milwaukee, Wisconsin, USA; Orlando, Florida, USA; Philadelphia, Pennsylvania, USA; Phoenix, Arizona, USA; Portland, Oregon, USA; Salt Lake City, Utah, USA; St. Louis, Missouri, USA | Nov 11 | [Apply](https://job-boards.greenhouse.io/newrelic/jobs/5479397008) · [Find the hiring manager](https://warmada.com/job/new-relic-software-engineer-infrastructure-d7695177-8c9d-43ae-b2a7-186c2c34a628?utm_source=github&utm_medium=list&utm_campaign=houston) |
-| [marianaminerals.com](https://warmada.com/companies/marianaminerals-com?utm_source=github&utm_medium=list&utm_campaign=houston) | Commissioning Engineer | Houston, TX | Nov 8 | [Apply](https://jobs.ashbyhq.com/marianaminerals/5d7ea495-053d-44d6-a221-95a2c84f5c09) · [Find the hiring manager](https://warmada.com/job/marianaminerals-com-commissioning-engineer-32b6511a-b8d2-4c86-97cd-05d4727cd203?utm_source=github&utm_medium=list&utm_campaign=houston) |
+| [Mariana Minerals](https://warmada.com/companies/mariana-minerals?utm_source=github&utm_medium=list&utm_campaign=houston) | Commissioning Engineer | Houston, TX | Nov 8 | [Apply](https://jobs.ashbyhq.com/marianaminerals/5d7ea495-053d-44d6-a221-95a2c84f5c09) · [Find the hiring manager](https://warmada.com/job/mariana-minerals-commissioning-engineer-32b6511a-b8d2-4c86-97cd-05d4727cd203?utm_source=github&utm_medium=list&utm_campaign=houston) |
 
 ## Sales (8)
 
@@ -40,16 +39,17 @@ A bad listing? Email hello@warmada.com with the link.
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
-| [marianaminerals.com](https://warmada.com/companies/marianaminerals-com?utm_source=github&utm_medium=list&utm_campaign=houston) | Recruiting Coordinator | Houston, TX | Nov 6 | [Apply](https://jobs.ashbyhq.com/marianaminerals/a391e5be-92f7-43cd-86bb-ebbf9a05de98) · [Find the hiring manager](https://warmada.com/job/marianaminerals-com-recruiting-coordinator-345f072c-49d3-4d2a-a800-d94250491b95?utm_source=github&utm_medium=list&utm_campaign=houston) |
+| [Mariana Minerals](https://warmada.com/companies/mariana-minerals?utm_source=github&utm_medium=list&utm_campaign=houston) | Recruiting Coordinator | Houston, TX | Nov 6 | [Apply](https://jobs.ashbyhq.com/marianaminerals/a391e5be-92f7-43cd-86bb-ebbf9a05de98) · [Find the hiring manager](https://warmada.com/job/mariana-minerals-recruiting-coordinator-345f072c-49d3-4d2a-a800-d94250491b95?utm_source=github&utm_medium=list&utm_campaign=houston) |
 
-## Other (7)
+## Other (8)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
+| [Mariana Minerals](https://warmada.com/companies/mariana-minerals?utm_source=github&utm_medium=list&utm_campaign=houston) | Administrative Assistant | Houston, TX | Nov 12 | [Apply](https://jobs.ashbyhq.com/marianaminerals/42d74030-792c-44d6-9d93-6c0623d19cf7) · [Find the hiring manager](https://warmada.com/job/mariana-minerals-administrative-assistant-9455eaea-274a-4aa0-9d55-9bef4d3c6c17?utm_source=github&utm_medium=list&utm_campaign=houston) |
 | [EquipmentShare](https://warmada.com/companies/equipmentshare?utm_source=github&utm_medium=list&utm_campaign=houston) | Inventory Control Specialist | Houston, TX | Nov 10 | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8371911) · [Find the hiring manager](https://warmada.com/job/equipmentshare-inventory-control-specialist-9cec37ce-d03f-41a7-8229-db4c7b964229?utm_source=github&utm_medium=list&utm_campaign=houston) |
-| [New Relic](https://warmada.com/companies/new-relic?utm_source=github&utm_medium=list&utm_campaign=houston) | Senior Technical Success Manager | Atlanta, Georgia, USA; Boston, Massachusetts, USA; Chicago, Illinois, USA; Houston, Texas, USA; Miami, Florida, USA | Nov 6 | [Apply](https://job-boards.greenhouse.io/newrelic/jobs/5441727008) · [Find the hiring manager](https://warmada.com/job/new-relic-senior-technical-success-manager-ca8d73d8-b61c-43b0-9b68-3d7871060ebf?utm_source=github&utm_medium=list&utm_campaign=houston) |
+| New Relic | Senior Technical Success Manager | Atlanta, Georgia, USA; Boston, Massachusetts, USA; Chicago, Illinois, USA; Houston, Texas, USA; Miami, Florida, USA | Nov 6 | [Apply](https://job-boards.greenhouse.io/newrelic/jobs/5441727008) · [Find the hiring manager](https://warmada.com/job/new-relic-senior-technical-success-manager-ca8d73d8-b61c-43b0-9b68-3d7871060ebf?utm_source=github&utm_medium=list&utm_campaign=houston) |
 | [Homebase](https://warmada.com/companies/homebase?utm_source=github&utm_medium=list&utm_campaign=houston) | SMB Product Specialist, Core | Houston | Nov 5 | [Apply](https://jobs.ashbyhq.com/homebase/6e974123-109b-4a61-8b5e-dc1bd778ef85) · [Find the hiring manager](https://warmada.com/job/homebase-smb-product-specialist-core-5453daa2-f1ec-4c34-927c-950ee65c9401?utm_source=github&utm_medium=list&utm_campaign=houston) |
 | [Guidepost Montessori](https://warmada.com/companies/guidepost-montessori?utm_source=github&utm_medium=list&utm_campaign=houston) | Part-Time Substitute Teacher | Houston, Texas | Nov 5 | [Apply](https://job-boards.greenhouse.io/guidepostmontessori/jobs/8354452) · [Find the hiring manager](https://warmada.com/job/guidepost-montessori-part-time-substitute-teacher-3f3118ad-e58f-49b9-8597-a2be12e04588?utm_source=github&utm_medium=list&utm_campaign=houston) |
-| [abercrombie.com](https://warmada.com/companies/abercrombie-com?utm_source=github&utm_medium=list&utm_campaign=houston) | Assistant Manager - Willowbrook Mall, Hollister | Houston, Texas | Nov 5 | [Apply](https://abercrombie.wd108.myworkdayjobs.com/anf/job/Houston-Texas/Assistant-Manager---Willowbrook-Mall--Hollister_JR104136) · [Find the hiring manager](https://warmada.com/job/abercrombie-com-assistant-manager-willowbrook-mall-hollister-73393522-60c6-4536-b54e-cec49e1cdee9?utm_source=github&utm_medium=list&utm_campaign=houston) |
+| [Abercrombie &amp; Fitch Co.](https://warmada.com/companies/abercrombie-and-fitch-co?utm_source=github&utm_medium=list&utm_campaign=houston) | Assistant Manager - Willowbrook Mall, Hollister | Houston, Texas | Nov 5 | [Apply](https://abercrombie.wd108.myworkdayjobs.com/anf/job/Houston-Texas/Assistant-Manager---Willowbrook-Mall--Hollister_JR104136) · [Find the hiring manager](https://warmada.com/job/abercrombie-and-fitch-co-assistant-manager-willowbrook-mall-hollister-73393522-60c6-4536-b54e-cec49e1cdee9?utm_source=github&utm_medium=list&utm_campaign=houston) |
 | [IVX Health](https://warmada.com/companies/ivx-health?utm_source=github&utm_medium=list&utm_campaign=houston) | Infusion Nurse Practitioner (NP) - Float | Bellaire, Texas, United States; Houston, Texas, United States; Houston, Texas, United States | Oct 30 | [Apply](https://job-boards.greenhouse.io/ivxhealth/jobs/4471079009) · [Find the hiring manager](https://warmada.com/job/ivx-health-infusion-nurse-practitioner-np-float-62b1424c-5034-4766-befd-42b69ebf7c0f?utm_source=github&utm_medium=list&utm_campaign=houston) |
-| [marianaminerals.com](https://warmada.com/companies/marianaminerals-com?utm_source=github&utm_medium=list&utm_campaign=houston) | Workplace Manager | Houston, TX | Oct 30 | [Apply](https://jobs.ashbyhq.com/marianaminerals/3ae0d810-7760-4a1a-a016-7ee2d0c5f13d) · [Find the hiring manager](https://warmada.com/job/marianaminerals-com-workplace-manager-a5d01354-bf5d-45df-a277-a0f77f7400b8?utm_source=github&utm_medium=list&utm_campaign=houston) |
+| [Mariana Minerals](https://warmada.com/companies/mariana-minerals?utm_source=github&utm_medium=list&utm_campaign=houston) | Workplace Manager | Houston, TX | Oct 30 | [Apply](https://jobs.ashbyhq.com/marianaminerals/3ae0d810-7760-4a1a-a016-7ee2d0c5f13d) · [Find the hiring manager](https://warmada.com/job/mariana-minerals-workplace-manager-a5d01354-bf5d-45df-a277-a0f77f7400b8?utm_source=github&utm_medium=list&utm_campaign=houston) |
