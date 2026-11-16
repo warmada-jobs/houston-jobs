@@ -1,6 +1,6 @@
 # Houston Jobs
 
-Open roles in Houston: 20 roles at 16 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=houston).** Last updated 2026-11-15.
+Open roles in Houston: 20 roles at 15 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=houston).** Last updated 2026-11-16.
 
 All 20 are listed below. Browse the newest on [warmada.com/jobs/houston](https://warmada.com/jobs/houston?utm_source=github&utm_medium=list&utm_campaign=houston).
 
@@ -20,6 +20,7 @@ A bad listing? Email hello@warmada.com with the link.
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
+| [2020 Companies, Inc.](https://warmada.com/companies/2020-companies-inc?utm_source=github&utm_medium=list&utm_campaign=houston) | NECOA Premium Wellness Sales Consultant – Retail | Houston, TX | Nov 15 | [Apply](https://2020companies.wd1.myworkdayjobs.com/External_Careers/job/Houston-TX/NECOA-Premium-Wellness-Sales-Consultant---Retail_REQ_116817) · [Find the hiring manager](https://warmada.com/job/2020-companies-inc-necoa-premium-wellness-sales-consultant-retail-8b081188-0955-43db-9587-e76a433eabc9?utm_source=github&utm_medium=list&utm_campaign=houston) |
 | Cato Networks | Regional Sales Director, Houston | Texas - Houston | Nov 11 | [Apply](https://www.catonetworks.com/careers/careers-post/5033711101?gh_jid=5033711101) · [Find the hiring manager](https://warmada.com/job/cato-networks-regional-sales-director-houston-d44bc072-9608-453d-9962-995292aeb777?utm_source=github&utm_medium=list&utm_campaign=houston) |
 | [Cribl](https://warmada.com/companies/cribl?utm_source=github&utm_medium=list&utm_campaign=houston) | Regional Sales Manager, Houston (Enterprise) | Remote - Houston, Texas | Nov 10 | [Apply](https://cribl.io/job-detail/?gh_jid=6250757004) · [Find the hiring manager](https://warmada.com/job/cribl-regional-sales-manager-houston-enterprise-61fffd5e-f58d-4122-9298-bd009efe7518?utm_source=github&utm_medium=list&utm_campaign=houston) |
 | [2020 Companies, Inc.](https://warmada.com/companies/2020-companies-inc?utm_source=github&utm_medium=list&utm_campaign=houston) | HP Retail Sales Specialist | Houston, TX | Nov 10 | [Apply](https://2020companies.wd1.myworkdayjobs.com/External_Careers/job/Houston-TX/HP-Retail-Sales-Representative_REQ_115290) · [Find the hiring manager](https://warmada.com/job/2020-companies-inc-hp-retail-sales-specialist-589f4e38-771e-4577-a5ce-cf64e52106ed?utm_source=github&utm_medium=list&utm_campaign=houston) |
@@ -27,7 +28,6 @@ A bad listing? Email hello@warmada.com with the link.
 | [Verkada](https://warmada.com/companies/verkada?utm_source=github&utm_medium=list&utm_campaign=houston) | Enterprise Account Executive (Houston - Local Government) | Houston, TX United States | Nov 4 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5283736007) · [Find the hiring manager](https://warmada.com/job/verkada-enterprise-account-executive-houston-local-government-f7833843-e555-4639-b365-f7497ad16e0e?utm_source=github&utm_medium=list&utm_campaign=houston) |
 | [2020 Companies, Inc.](https://warmada.com/companies/2020-companies-inc?utm_source=github&utm_medium=list&utm_campaign=houston) | Samsung Field Sales Manager | Houston, TX | Nov 4 | [Apply](https://2020companies.wd1.myworkdayjobs.com/External_Careers/job/Houston-TX/Samsung-Field-Sales-Manager--Non-Exempt_REQ_115708) · [Find the hiring manager](https://warmada.com/job/2020-companies-inc-samsung-field-sales-manager-6df34ab6-4ec7-40a1-997a-2fdf7c4af1f5?utm_source=github&utm_medium=list&utm_campaign=houston) |
 | [Local Infusion](https://warmada.com/companies/local-infusion?utm_source=github&utm_medium=list&utm_campaign=houston) | Business Development Executive - Greater Houston, TX | Houston | Nov 3 | [Apply](https://jobs.ashbyhq.com/Local%20Infusion/c81e6967-c72c-463f-9c4a-7ddb47a77c79) · [Find the hiring manager](https://warmada.com/job/local-infusion-business-development-executive-greater-houston-tx-383329a1-0b93-46d0-9d84-74fe334b2a73?utm_source=github&utm_medium=list&utm_campaign=houston) |
-| [Heartflow](https://warmada.com/companies/heartflow?utm_source=github&utm_medium=list&utm_campaign=houston) | Territory Account Manager - Southeast Houston, TX | Houston, TX | Nov 2 | [Apply](https://job-boards.greenhouse.io/heartflowinc/jobs/6239934004) · [Find the hiring manager](https://warmada.com/job/heartflow-territory-account-manager-southeast-houston-tx-2e102044-3839-4d1f-8ca2-1d472e2be05a?utm_source=github&utm_medium=list&utm_campaign=houston) |
 
 ## Finance (1)
 
