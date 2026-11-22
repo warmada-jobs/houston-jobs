@@ -1,10 +1,10 @@
 # Houston Jobs
 
-Open roles in Houston: 24 roles at 17 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=houston).** Last updated 2026-11-21.
+Open roles in Houston: 25 roles at 18 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=houston).** Last updated 2026-11-22.
 
-All 24 are listed below. Browse the newest on [warmada.com/jobs/houston](https://warmada.com/jobs/houston?utm_source=github&utm_medium=list&utm_campaign=houston).
+All 25 are listed below. Browse the newest on [warmada.com/jobs/houston](https://warmada.com/jobs/houston?utm_source=github&utm_medium=list&utm_campaign=houston).
 
-**By role:** Software Engineering (1) · Sales (10) · Customer Success (1) · Operations (2) · Finance (1) · Legal & Compliance (1) · Other (8)
+**By role:** Software Engineering (1) · Sales (10) · Customer Success (1) · Operations (2) · Finance (1) · Legal & Compliance (1) · Other (9)
 
 **How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. A role is on this list when its posting names Houston. The section comes from keywords in the title, so a role can land in the wrong one. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
@@ -56,10 +56,11 @@ A bad listing? Email hello@warmada.com with the link.
 | --- | --- | --- | --- | --- |
 | [Lyft](https://warmada.com/companies/lyft?utm_source=github&utm_medium=list&utm_campaign=houston) | Counsel, Patents &amp; IP | Houston, TX | Nov 13 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8943182002?gh_jid=8943182002) · [Find the hiring manager](https://warmada.com/job/lyft-counsel-patents-and-ip-f3d929fd-9e7a-48a7-a36e-2cc08c4830ef?utm_source=github&utm_medium=list&utm_campaign=houston) |
 
-## Other (8)
+## Other (9)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
+| [Rothy's](https://warmada.com/companies/rothy-s?utm_source=github&utm_medium=list&utm_campaign=houston) | Part-Time Keyholder - Houston Galleria | Houston, TX | Nov 21 | [Apply](https://jobs.ashbyhq.com/Rothys/839e60eb-6962-4c1b-9a4a-d21c7290b180) · [Find the hiring manager](https://warmada.com/job/rothy-s-part-time-keyholder-houston-galleria-478c6cb5-967e-4451-8e83-9643a72b4643?utm_source=github&utm_medium=list&utm_campaign=houston) |
 | [Jerry.ai](https://warmada.com/companies/jerry-ai?utm_source=github&utm_medium=list&utm_campaign=houston) | Insurance Services Team Lead | Houston, Texas | Nov 20 | [Apply](https://jobs.ashbyhq.com/Jerry.ai/3bb5c046-a4ad-46f4-9737-ca3859621ef6) · [Find the hiring manager](https://warmada.com/job/jerry-ai-insurance-services-team-lead-8ac3ecda-3d13-4cca-88b2-03ff83bcf163?utm_source=github&utm_medium=list&utm_campaign=houston) |
 | [EquipmentShare](https://warmada.com/companies/equipmentshare?utm_source=github&utm_medium=list&utm_campaign=houston) | Field Technician (Mechanic) (Pump, Power &amp; HVAC) | Houston, TX (Advanced Solutions) | Nov 19 | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8402813) · [Find the hiring manager](https://warmada.com/job/equipmentshare-field-technician-mechanic-pump-power-and-hvac-b0f758d6-0955-439f-bdb1-aa1a819fa1a7?utm_source=github&utm_medium=list&utm_campaign=houston) |
 | [EquipmentShare](https://warmada.com/companies/equipmentshare?utm_source=github&utm_medium=list&utm_campaign=houston) | Traveling Technician - Site Solutions | Houston, TX (Site Solutions) | Nov 19 | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8386755) · [Find the hiring manager](https://warmada.com/job/equipmentshare-traveling-technician-site-solutions-e86e61f0-a088-4f08-9dd9-cb0b6642ed43?utm_source=github&utm_medium=list&utm_campaign=houston) |
