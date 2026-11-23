@@ -1,22 +1,16 @@
 # Houston Jobs
 
-Open roles in Houston: 25 roles at 18 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=houston).** Last updated 2026-11-22.
+Open roles in Houston: 23 roles at 18 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=houston).** Last updated 2026-11-23.
 
-All 25 are listed below. Browse the newest on [warmada.com/jobs/houston](https://warmada.com/jobs/houston?utm_source=github&utm_medium=list&utm_campaign=houston).
+All 23 are listed below. Browse the newest on [warmada.com/jobs/houston](https://warmada.com/jobs/houston?utm_source=github&utm_medium=list&utm_campaign=houston).
 
-**By role:** Software Engineering (1) · Sales (10) · Customer Success (1) · Operations (2) · Finance (1) · Legal & Compliance (1) · Other (9)
+**By role:** Sales (8) · Customer Success (1) · Operations (2) · Finance (1) · Legal & Compliance (2) · Other (9)
 
 **How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. A role is on this list when its posting names Houston. The section comes from keywords in the title, so a role can land in the wrong one. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
 A bad listing? Email hello@warmada.com with the link.
 
-## Software Engineering (1)
-
-| Company | Role | Location | Posted | Links |
-| --- | --- | --- | --- | --- |
-| [Mariana Minerals](https://warmada.com/companies/mariana-minerals?utm_source=github&utm_medium=list&utm_campaign=houston) | Commissioning Engineer | Houston, TX | Nov 8 | [Apply](https://jobs.ashbyhq.com/marianaminerals/5d7ea495-053d-44d6-a221-95a2c84f5c09) · [Find the hiring manager](https://warmada.com/job/mariana-minerals-commissioning-engineer-32b6511a-b8d2-4c86-97cd-05d4727cd203?utm_source=github&utm_medium=list&utm_campaign=houston) |
-
-## Sales (10)
+## Sales (8)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -28,8 +22,6 @@ A bad listing? Email hello@warmada.com with the link.
 | [2020 Companies, Inc.](https://warmada.com/companies/2020-companies-inc?utm_source=github&utm_medium=list&utm_campaign=houston) | NECOA Premium Wellness Sales Consultant – Retail | Houston, TX | Nov 15 | [Apply](https://2020companies.wd1.myworkdayjobs.com/External_Careers/job/Houston-TX/NECOA-Premium-Wellness-Sales-Consultant---Retail_REQ_116817) · [Find the hiring manager](https://warmada.com/job/2020-companies-inc-necoa-premium-wellness-sales-consultant-retail-8b081188-0955-43db-9587-e76a433eabc9?utm_source=github&utm_medium=list&utm_campaign=houston) |
 | [Cato Networks](https://warmada.com/companies/cato-networks?utm_source=github&utm_medium=list&utm_campaign=houston) | Regional Sales Director, Houston | Texas - Houston | Nov 11 | [Apply](https://www.catonetworks.com/careers/careers-post/5033711101?gh_jid=5033711101) · [Find the hiring manager](https://warmada.com/job/cato-networks-regional-sales-director-houston-d44bc072-9608-453d-9962-995292aeb777?utm_source=github&utm_medium=list&utm_campaign=houston) |
 | [Cribl](https://warmada.com/companies/cribl?utm_source=github&utm_medium=list&utm_campaign=houston) | Regional Sales Manager, Houston (Enterprise) | Remote - Houston, Texas | Nov 10 | [Apply](https://cribl.io/job-detail/?gh_jid=6250757004) · [Find the hiring manager](https://warmada.com/job/cribl-regional-sales-manager-houston-enterprise-61fffd5e-f58d-4122-9298-bd009efe7518?utm_source=github&utm_medium=list&utm_campaign=houston) |
-| [Databricks](https://warmada.com/companies/databricks?utm_source=github&utm_medium=list&utm_campaign=houston) | Named Core Account Executive-Oil &amp; Gas | Houston, Texas; Oklahoma | Nov 9 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8925470002) · [Find the hiring manager](https://warmada.com/job/databricks-named-core-account-executive-oil-and-gas-8ff8bb03-5895-4aa9-b878-159aed3cc5f9?utm_source=github&utm_medium=list&utm_campaign=houston) |
-| [Exiger](https://warmada.com/companies/exiger?utm_source=github&utm_medium=list&utm_campaign=houston) | Enterprise Account Executive – Supply Chain Risk (Texas) | Houston, Texas, United States | Nov 9 | [Apply](https://www.exiger.com/careers/?gh_jid=6252598004) · [Find the hiring manager](https://warmada.com/job/exiger-enterprise-account-executive-supply-chain-risk-texas-0f0504de-15c1-4b9b-9c73-4e45ff857aab?utm_source=github&utm_medium=list&utm_campaign=houston) |
 
 ## Customer Success (1)
 
@@ -50,11 +42,12 @@ A bad listing? Email hello@warmada.com with the link.
 | --- | --- | --- | --- | --- |
 | [Roofstock](https://warmada.com/companies/roofstock?utm_source=github&utm_medium=list&utm_campaign=houston) | Cash Accountant | Atlanta, Georgia, United States; Charlotte, North Carolina, United States; Dallas, Texas, United States; Houston, Texas, United States; Las Vegas, Nevada, United States; Phoenix, Arizona, United States; Tampa, Florida, United States | Nov 19 | [Apply](https://job-boards.greenhouse.io/roofstock/jobs/8950775002) · [Find the hiring manager](https://warmada.com/job/roofstock-cash-accountant-adcbc79d-566f-452c-98e0-2d09d62f1943?utm_source=github&utm_medium=list&utm_campaign=houston) |
 
-## Legal & Compliance (1)
+## Legal & Compliance (2)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
 | [Lyft](https://warmada.com/companies/lyft?utm_source=github&utm_medium=list&utm_campaign=houston) | Counsel, Patents &amp; IP | Houston, TX | Nov 13 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8943182002?gh_jid=8943182002) · [Find the hiring manager](https://warmada.com/job/lyft-counsel-patents-and-ip-f3d929fd-9e7a-48a7-a36e-2cc08c4830ef?utm_source=github&utm_medium=list&utm_campaign=houston) |
+| Vaulted Deep | Head of Legal | Houston | Nov 11 | [Apply](https://jobs.ashbyhq.com/vaulted-deep/0f313d34-61a2-46a2-9f43-2f53ac41d6e8) · [Find the hiring manager](https://warmada.com/job/vaulted-deep-head-of-legal-d0a35c57-a246-4859-8d61-4241d7dca12f?utm_source=github&utm_medium=list&utm_campaign=houston) |
 
 ## Other (9)
 
