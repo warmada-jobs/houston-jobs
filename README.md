@@ -1,16 +1,16 @@
 # Houston Jobs
 
-Open roles in Houston: 23 roles at 18 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=houston).** Last updated 2026-11-23.
+Open roles in Houston: 22 roles at 17 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=houston).** Last updated 2026-11-24.
 
-All 23 are listed below. Browse the newest on [warmada.com/jobs/houston](https://warmada.com/jobs/houston?utm_source=github&utm_medium=list&utm_campaign=houston).
+All 22 are listed below. Browse the newest on [warmada.com/jobs/houston](https://warmada.com/jobs/houston?utm_source=github&utm_medium=list&utm_campaign=houston).
 
-**By role:** Sales (8) · Customer Success (1) · Operations (2) · Finance (1) · Legal & Compliance (2) · Other (9)
+**By role:** Sales (7) · Customer Success (1) · Operations (2) · Finance (1) · Legal & Compliance (2) · Other (9)
 
 **How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. A role is on this list when its posting names Houston. The section comes from keywords in the title, so a role can land in the wrong one. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
 A bad listing? Email hello@warmada.com with the link.
 
-## Sales (8)
+## Sales (7)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -21,7 +21,6 @@ A bad listing? Email hello@warmada.com with the link.
 | [Cohere](https://warmada.com/companies/cohere?utm_source=github&utm_medium=list&utm_campaign=houston) | Strategic Account Executive - Manufacturing | Houston | Nov 17 | [Apply](https://jobs.ashbyhq.com/cohere/40060bf5-5fb1-4969-ba7b-da27ce4a9e38) · [Find the hiring manager](https://warmada.com/job/cohere-strategic-account-executive-manufacturing-1e48fae7-a9a1-48da-a56e-98fe1d5a6f22?utm_source=github&utm_medium=list&utm_campaign=houston) |
 | [2020 Companies, Inc.](https://warmada.com/companies/2020-companies-inc?utm_source=github&utm_medium=list&utm_campaign=houston) | NECOA Premium Wellness Sales Consultant – Retail | Houston, TX | Nov 15 | [Apply](https://2020companies.wd1.myworkdayjobs.com/External_Careers/job/Houston-TX/NECOA-Premium-Wellness-Sales-Consultant---Retail_REQ_116817) · [Find the hiring manager](https://warmada.com/job/2020-companies-inc-necoa-premium-wellness-sales-consultant-retail-8b081188-0955-43db-9587-e76a433eabc9?utm_source=github&utm_medium=list&utm_campaign=houston) |
 | [Cato Networks](https://warmada.com/companies/cato-networks?utm_source=github&utm_medium=list&utm_campaign=houston) | Regional Sales Director, Houston | Texas - Houston | Nov 11 | [Apply](https://www.catonetworks.com/careers/careers-post/5033711101?gh_jid=5033711101) · [Find the hiring manager](https://warmada.com/job/cato-networks-regional-sales-director-houston-d44bc072-9608-453d-9962-995292aeb777?utm_source=github&utm_medium=list&utm_campaign=houston) |
-| [Cribl](https://warmada.com/companies/cribl?utm_source=github&utm_medium=list&utm_campaign=houston) | Regional Sales Manager, Houston (Enterprise) | Remote - Houston, Texas | Nov 10 | [Apply](https://cribl.io/job-detail/?gh_jid=6250757004) · [Find the hiring manager](https://warmada.com/job/cribl-regional-sales-manager-houston-enterprise-61fffd5e-f58d-4122-9298-bd009efe7518?utm_source=github&utm_medium=list&utm_campaign=houston) |
 
 ## Customer Success (1)
 
@@ -54,7 +53,7 @@ A bad listing? Email hello@warmada.com with the link.
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
 | [Rothy's](https://warmada.com/companies/rothy-s?utm_source=github&utm_medium=list&utm_campaign=houston) | Part-Time Keyholder - Houston Galleria | Houston, TX | Nov 21 | [Apply](https://jobs.ashbyhq.com/Rothys/839e60eb-6962-4c1b-9a4a-d21c7290b180) · [Find the hiring manager](https://warmada.com/job/rothy-s-part-time-keyholder-houston-galleria-478c6cb5-967e-4451-8e83-9643a72b4643?utm_source=github&utm_medium=list&utm_campaign=houston) |
-| [Jerry.ai](https://warmada.com/companies/jerry-ai?utm_source=github&utm_medium=list&utm_campaign=houston) | Insurance Services Team Lead | Houston, Texas | Nov 20 | [Apply](https://jobs.ashbyhq.com/Jerry.ai/3bb5c046-a4ad-46f4-9737-ca3859621ef6) · [Find the hiring manager](https://warmada.com/job/jerry-ai-insurance-services-team-lead-8ac3ecda-3d13-4cca-88b2-03ff83bcf163?utm_source=github&utm_medium=list&utm_campaign=houston) |
+| [Jerry.ai](https://warmada.com/companies/jerry-ai?utm_source=github&utm_medium=list&utm_campaign=houston) | Insurance Services Team Lead (Remote) | Houston, Texas | Nov 20 | [Apply](https://jobs.ashbyhq.com/Jerry.ai/3bb5c046-a4ad-46f4-9737-ca3859621ef6) · [Find the hiring manager](https://warmada.com/job/jerry-ai-insurance-services-team-lead-remote-8ac3ecda-3d13-4cca-88b2-03ff83bcf163?utm_source=github&utm_medium=list&utm_campaign=houston) |
 | [EquipmentShare](https://warmada.com/companies/equipmentshare?utm_source=github&utm_medium=list&utm_campaign=houston) | Field Technician (Mechanic) (Pump, Power &amp; HVAC) | Houston, TX (Advanced Solutions) | Nov 19 | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8402813) · [Find the hiring manager](https://warmada.com/job/equipmentshare-field-technician-mechanic-pump-power-and-hvac-b0f758d6-0955-439f-bdb1-aa1a819fa1a7?utm_source=github&utm_medium=list&utm_campaign=houston) |
 | [EquipmentShare](https://warmada.com/companies/equipmentshare?utm_source=github&utm_medium=list&utm_campaign=houston) | Traveling Technician - Site Solutions | Houston, TX (Site Solutions) | Nov 19 | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8386755) · [Find the hiring manager](https://warmada.com/job/equipmentshare-traveling-technician-site-solutions-e86e61f0-a088-4f08-9dd9-cb0b6642ed43?utm_source=github&utm_medium=list&utm_campaign=houston) |
 | [Guidepost Montessori](https://warmada.com/companies/guidepost-montessori?utm_source=github&utm_medium=list&utm_campaign=houston) | Part-Time Substitute Teacher | Houston, Texas | Nov 17 | [Apply](https://job-boards.greenhouse.io/guidepostmontessori/jobs/8397072) · [Find the hiring manager](https://warmada.com/job/guidepost-montessori-part-time-substitute-teacher-467f7c9b-ec66-4095-a350-a09b56ceabc5?utm_source=github&utm_medium=list&utm_campaign=houston) |
