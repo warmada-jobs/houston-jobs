@@ -1,10 +1,10 @@
 # Houston Jobs
 
-Open roles in Houston: 23 roles at 17 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=houston).** Last updated 2026-11-25.
+Open roles in Houston: 24 roles at 16 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=houston).** Last updated 2026-11-26.
 
-All 23 are listed below. Browse the newest on [warmada.com/jobs/houston](https://warmada.com/jobs/houston?utm_source=github&utm_medium=list&utm_campaign=houston).
+All 24 are listed below. Browse the newest on [warmada.com/jobs/houston](https://warmada.com/jobs/houston?utm_source=github&utm_medium=list&utm_campaign=houston).
 
-**By role:** Marketing (1) · Sales (6) · Customer Success (1) · Operations (2) · Finance (2) · Legal & Compliance (1) · Other (10)
+**By role:** Marketing (1) · Sales (5) · Customer Success (1) · Operations (2) · Finance (2) · Legal & Compliance (1) · Other (12)
 
 **How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. A role is on this list when its posting names Houston. The section comes from keywords in the title, so a role can land in the wrong one. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
@@ -16,7 +16,7 @@ A bad listing? Email hello@warmada.com with the link.
 | --- | --- | --- | --- | --- |
 | [Samsara](https://warmada.com/companies/samsara?utm_source=github&utm_medium=list&utm_campaign=houston) | Sr. Marketing Ops Manager I | Remote - CA; Remote - Chicago; Remote - FL; Remote - Houston; Remote - PA | Nov 25 | [Apply](https://www.samsara.com/company/careers/roles/8411822?gh_jid=8411822) · [Find the hiring manager](https://warmada.com/job/samsara-sr-marketing-ops-manager-i-b00a0357-c39b-4351-ba26-d1e3168c9a4e?utm_source=github&utm_medium=list&utm_campaign=houston) |
 
-## Sales (6)
+## Sales (5)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -25,7 +25,6 @@ A bad listing? Email hello@warmada.com with the link.
 | [Databricks](https://warmada.com/companies/databricks?utm_source=github&utm_medium=list&utm_campaign=houston) | Strategic Core Account Executive- Oil &amp; Gas | Austin, Texas; Dallas, Texas; Houston, Texas; United States | Nov 17 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8929384002) · [Find the hiring manager](https://warmada.com/job/databricks-strategic-core-account-executive-oil-and-gas-73fe24ef-8648-43b4-850b-8034f04fc8f1?utm_source=github&utm_medium=list&utm_campaign=houston) |
 | [Cohere](https://warmada.com/companies/cohere?utm_source=github&utm_medium=list&utm_campaign=houston) | Strategic Account Executive - Manufacturing | Houston | Nov 17 | [Apply](https://jobs.ashbyhq.com/cohere/40060bf5-5fb1-4969-ba7b-da27ce4a9e38) · [Find the hiring manager](https://warmada.com/job/cohere-strategic-account-executive-manufacturing-1e48fae7-a9a1-48da-a56e-98fe1d5a6f22?utm_source=github&utm_medium=list&utm_campaign=houston) |
 | [2020 Companies, Inc.](https://warmada.com/companies/2020-companies-inc?utm_source=github&utm_medium=list&utm_campaign=houston) | NECOA Premium Wellness Sales Consultant – Retail | Houston, TX | Nov 15 | [Apply](https://2020companies.wd1.myworkdayjobs.com/External_Careers/job/Houston-TX/NECOA-Premium-Wellness-Sales-Consultant---Retail_REQ_116817) · [Find the hiring manager](https://warmada.com/job/2020-companies-inc-necoa-premium-wellness-sales-consultant-retail-8b081188-0955-43db-9587-e76a433eabc9?utm_source=github&utm_medium=list&utm_campaign=houston) |
-| [Cato Networks](https://warmada.com/companies/cato-networks?utm_source=github&utm_medium=list&utm_campaign=houston) | Regional Sales Director, Houston | Texas - Houston | Nov 11 | [Apply](https://www.catonetworks.com/careers/careers-post/5033711101?gh_jid=5033711101) · [Find the hiring manager](https://warmada.com/job/cato-networks-regional-sales-director-houston-d44bc072-9608-453d-9962-995292aeb777?utm_source=github&utm_medium=list&utm_campaign=houston) |
 
 ## Customer Success (1)
 
@@ -53,10 +52,12 @@ A bad listing? Email hello@warmada.com with the link.
 | --- | --- | --- | --- | --- |
 | [Lyft](https://warmada.com/companies/lyft?utm_source=github&utm_medium=list&utm_campaign=houston) | Counsel, Patents &amp; IP | Houston, TX | Nov 13 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8943182002?gh_jid=8943182002) · [Find the hiring manager](https://warmada.com/job/lyft-counsel-patents-and-ip-f3d929fd-9e7a-48a7-a36e-2cc08c4830ef?utm_source=github&utm_medium=list&utm_campaign=houston) |
 
-## Other (10)
+## Other (12)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
+| [EquipmentShare](https://warmada.com/companies/equipmentshare?utm_source=github&utm_medium=list&utm_campaign=houston) | Fulfillment Supervisor | Houston, TX | Nov 25 | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8412842) · [Find the hiring manager](https://warmada.com/job/equipmentshare-fulfillment-supervisor-6cada953-66ed-457c-a73f-29f71e1699d7?utm_source=github&utm_medium=list&utm_campaign=houston) |
+| [DLR Group](https://warmada.com/companies/dlr-group?utm_source=github&utm_medium=list&utm_campaign=houston) | Planning Leader, Cultural + Performing Arts | Austin, Texas, United States; Dallas, Texas, United States; Houston, Texas, United States; Los Angeles, California, United States; New York, New York, United States; Orlando, Florida, United States | Nov 25 | [Apply](https://job-boards.greenhouse.io/dlrgroup/jobs/5494757008) · [Find the hiring manager](https://warmada.com/job/dlr-group-planning-leader-cultural-performing-arts-01fc41ee-3bf3-4b3d-84f4-07db160f9718?utm_source=github&utm_medium=list&utm_campaign=houston) |
 | [EquipmentShare](https://warmada.com/companies/equipmentshare?utm_source=github&utm_medium=list&utm_campaign=houston) | Regional Manager - Tool Trailers | Houston, TX | Nov 24 | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8412660) · [Find the hiring manager](https://warmada.com/job/equipmentshare-regional-manager-tool-trailers-096e6f39-c47c-4472-a3ab-7121dbb5d84b?utm_source=github&utm_medium=list&utm_campaign=houston) |
 | [EOS](https://warmada.com/companies/eos?utm_source=github&utm_medium=list&utm_campaign=houston) | Travel Fiber Optical Repair Technician | Atlanta, Georgia, United States; Austin, Texas, United States; Charlotte, North Carolina, United States; Columbus, Ohio, United States; Dallas, Texas, United States; Houston, Texas, United States; Los Angeles, California, United States; New York, New York, United States; Omaha, Nebraska, United States; Raleigh, North Carolina, United States; Remote - USA | Nov 24 | [Apply](https://eosits.com/company/careers/?gh_jid=8960055002) · [Find the hiring manager](https://warmada.com/job/eos-travel-fiber-optical-repair-technician-aea1af0a-fbb5-4040-96e9-357b01b9feed?utm_source=github&utm_medium=list&utm_campaign=houston) |
 | [Rothy's](https://warmada.com/companies/rothy-s?utm_source=github&utm_medium=list&utm_campaign=houston) | Part-Time Keyholder - Houston Galleria | Houston, TX | Nov 21 | [Apply](https://jobs.ashbyhq.com/Rothys/839e60eb-6962-4c1b-9a4a-d21c7290b180) · [Find the hiring manager](https://warmada.com/job/rothy-s-part-time-keyholder-houston-galleria-478c6cb5-967e-4451-8e83-9643a72b4643?utm_source=github&utm_medium=list&utm_campaign=houston) |
